@@ -1,3 +1,3 @@
 def prog1_sum():
-    return 5
+    return 8
     
